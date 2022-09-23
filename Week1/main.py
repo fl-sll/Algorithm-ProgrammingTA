@@ -149,3 +149,13 @@ validation.)
 #     print(f"Valid and the perimeter is {perimeter}")
 # else:
 #     print("Invalid")
+
+
+# if x + y >= z:
+#     print("The perimeter is", x + y + z)
+# elif x + z >= y:
+#     print("The perimeter is", x+y+z)
+# elif y + z >= x:
+#     print("The perimeter is", x + y + z)
+# else:
+#     print("invalid")
