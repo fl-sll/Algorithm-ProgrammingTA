@@ -1,17 +1,20 @@
 
-#! git commands
-#// initialize repo
+# ! git commands
+# // initialize repo
 
-#// adding file
+# // adding file
 
-#// checking status
+# // checking status
 
-#// committing
+# // committing
 
-#// pushing
+# // pushing
 
 
 #? for loop
+list1 = ["hello", "world"]
+for i in list1:
+    print(i)
 
 
 #? while loop
