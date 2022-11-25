@@ -13,11 +13,15 @@ Output Format
 Print the greatest of the four integers.
 Note: I/O will be automatically handled.
 
-Sample Input<br>
+Sample Input
+```
 3<br>
 4<br>
 6<br>
 5<br>
+```
 
 Sample output<br>
+```
 6
+```
