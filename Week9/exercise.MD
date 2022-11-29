@@ -1,4 +1,3 @@
-# IM DA BEST TA B)
 # No. 1
 Implement the following to Python code using classes <br>
 ![No. 1](No1.png)
