@@ -11,7 +11,6 @@ Create a driver file that utilizes all the methods for the Cylinder class and di
 Use the actual mathematical formula for the Area and Volume
 ---
 
-Push the file to a GitHub repo (it can be where you store your code too) and send me the link to the specific file / repo through e-mail or Discord.
-e-mail -> jason.wijadi@binus.ac.id
+Push the file to a GitHub repo (it can be where you store your code too) and send me the link to the specific file / repo through WA or Discord.
 
-Due **this Saturday (11 Dec 2021) @19:00!**
+Due **this Saturday (3 Dec 2021) @23:59!**
